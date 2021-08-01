@@ -2,7 +2,7 @@
     "name": "pineapple",
     "displayName": "PineApple",
     "description": "Light theme For VS Code",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "Ashinberish",
     "author": {
         "name": "Ashin Berish"
@@ -22,5 +22,10 @@
                 "path": "./themes/PineApple-color-theme.json"
             }
         ]
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ashinberish/PineApple-theme-VScode.git"
+      },
+      "homepage":"https://github.com/ashinberish/PineApple-theme-VScode/blob/1cfccaec1d034399b486fa455f14544d1e9fc44c/README.md"
 }
