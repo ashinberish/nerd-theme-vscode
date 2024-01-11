@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="nerd theme Logo" src="https://github.com/ashinberish/PineApple-theme-VScode/blob/master/icon/pineapple.png?raw=true" width="80" />
+  <img alt="nerd theme Logo" src="./assets/icon.png" width="80" />
  </p>
  <h1 align="center">
   Nerd Theme for VS code
@@ -7,15 +7,7 @@
   <p align="center">
 A light theme for Visual studio code editor
 </p>
-<p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=AshinBerish.pineapple">
-  <img alt="Version" src="https://vsmarketplacebadge.apphb.com/version/AshinBerish.pineapple.svg" />
-  </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=AshinBerish.pineapple">
-  <img alt="Version" src="https://vsmarketplacebadge.apphb.com/downloads/AshinBerish.pineapple.svg" />
-  </a>
-  </p>
-<img alt="Screenshot" src="https://raw.githubusercontent.com/ashinberish/PineApple-theme-VScode/master/icon/Screenshot.png" />
+<img alt="Screenshot" src="./assets/Screenshot.png" />
 
 ## Installation
 

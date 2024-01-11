@@ -2,12 +2,12 @@
     "name": "nerd-theme",
     "displayName": "Nerd Theme",
     "description": "Light theme For VS Code",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "publisher": "Ashinberish",
     "author": {
         "name": "Ashin Berish"
     },
-    "icon": "https://github.com/ashinberish/PineApple-theme-VScode/blob/master/icon/pineapple.png?raw=true",
+    "icon": "./assets/icon.png",
     "engines": {
         "vscode": "^1.58.0"
     },
@@ -17,7 +17,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "PineApple",
+                "label": "Nerd",
                 "uiTheme": "vs",
                 "path": "./themes/nerd-light-color-theme.json"
             }
@@ -25,7 +25,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/ashinberish/PineApple-theme-VScode.git"
+        "url": "https://github.com/ashinberish/nerd-theme-vscode.git"
       },
-      "homepage":"https://github.com/ashinberish/PineApple-theme-VScode/blob/1cfccaec1d034399b486fa455f14544d1e9fc44c/README.md"
+      "homepage":"https://github.com/ashinberish/nerd-theme-vscode"
 }
