@@ -19,7 +19,7 @@
             {
                 "label": "PineApple",
                 "uiTheme": "vs",
-                "path": "./themes/Nerd-light-color-theme.json"
+                "path": "./themes/nerd-light-color-theme.json"
             }
         ]
     },
