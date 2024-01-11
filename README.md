@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="nerd theme Logo" src="./assets/pineapple.png" width="80" />
+  <img alt="nerd theme Logo" src="./assets/icon.png" width="80" />
  </p>
  <h1 align="center">
   Nerd Theme for VS code
