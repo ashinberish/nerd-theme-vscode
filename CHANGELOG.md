@@ -1,4 +1,7 @@
 # Change Log
+## v2.0.1
+
+- Documentation and icon updates
 
 ## v2.0.0
 
