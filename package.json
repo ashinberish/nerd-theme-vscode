@@ -1,6 +1,6 @@
 {
-    "name": "pineapple",
-    "displayName": "PineApple",
+    "name": "nerd-theme",
+    "displayName": "Nerd Theme",
     "description": "Light theme For VS Code",
     "version": "2.0.0",
     "publisher": "Ashinberish",
@@ -19,7 +19,7 @@
             {
                 "label": "PineApple",
                 "uiTheme": "vs",
-                "path": "./themes/PineApple-color-theme.json"
+                "path": "./themes/Nerd-light-color-theme.json"
             }
         ]
     },
