@@ -16,8 +16,8 @@
     "textCodeBlock.background": "#ff8800",
     "textLink.activeForeground": "#3a3a3a",
     "textLink.foreground": "#9b9b9b",
-    "textPreformat.foreground": "#d7dce2",
-    "textSeparator.foreground": "#d7dce2",
+    "textPreformat.foreground": "#343a40",
+    "textSeparator.foreground": "#343a40",
 
     // Button control
     "button.background": "#edf2f4",
@@ -53,20 +53,20 @@
     "scrollbarSlider.hoverBackground": "#c7c7c7",
 
     // Badge
-    "badge.foreground": "#1d2433",
-    "badge.background": "#ffffff",
+    "badge.foreground": "#ffffff",
+    "badge.background": "#1d2433",
 
     // Progress bar
     "progressBar.background": "#ffcc66",
 
     // Lists and trees
-    "list.activeSelectionBackground": "#ebffca",
+    "list.activeSelectionBackground": "#e7e7e7",
     "list.activeSelectionForeground": "#171c28",
     "list.dropBackground": "#ffc481",
-    "list.focusBackground": "#f6ffe8",
+    "list.focusBackground": "#e7e7e7",
     "list.focusForeground": "#171c28",
     "list.highlightForeground": "#ffcc66",
-    "list.hoverBackground": "#f6ffe8",
+    "list.hoverBackground": "#edf2f4",
     "list.hoverForeground": "#171c28",
     "list.inactiveSelectionBackground": "#f6ffe8",
     "list.inactiveSelectionForeground": "#171c28",
@@ -350,10 +350,10 @@
     "walkThrough.embeddedEditorBackground": "#171c28",
 
     // Git colors
-    "gitDecoration.modifiedResourceForeground": "#5ccfe6",
+    "gitDecoration.modifiedResourceForeground": "#1eabc7",
     "gitDecoration.deletedResourceForeground": "#ff3d4a",
-    "gitDecoration.untrackedResourceForeground": "#bae67e",
-    "gitDecoration.ignoredResourceForeground": "#8695b777",
+    "gitDecoration.untrackedResourceForeground": "#73ad21",
+    "gitDecoration.ignoredResourceForeground": "#8695b78e",
     "gitDecoration.conflictingResourceForeground": "#ff3d4a",
 
     // Settings Editor colors
